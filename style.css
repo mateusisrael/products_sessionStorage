@@ -20,7 +20,7 @@ main{
     height: auto;
 }
 
-.produto{
+.produto-vizualizado{
     width: 200px;
     height: 380px;
     background: #fff;
@@ -29,6 +29,6 @@ main{
     cursor: pointer;
     border-radius: 7px;
     padding: 10px 0 10px 0;
-} .produto:hover{ box-shadow: 1px 1px 10px #062042; }
+} .produto-vizualizado:hover{ box-shadow: 1px 1px 10px #062042; }
 
-.produto-img{ width: 150px; }
+.produto-vizualizado-img{ width: 150px; }
